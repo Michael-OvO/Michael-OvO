@@ -1,1 +1,10 @@
-![](https://camo.githubusercontent.com/8847cc086ad4e08b4d52c0588b0e641fc8364c2fde6a09cdf8144ae75a537e0f/68747470733a2f2f6769646967692e636f6d2f63646e2f6c6f76652e676966)
+<p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+</p>
+
+<a href="https://github-readme-stats.vercel.app/api?username=Michael-OVO&count_private=true&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-OVO&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/m0rp43us">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-OVO&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
