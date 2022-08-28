@@ -40,6 +40,9 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: chartist
+          plugin_people: yes
+          plugin_people_limit: 100
+          plugin_people_types: followers,following
           #plugin_topics: yes
           #plugin_topics_limit: 0
           #plugin_topics_mode: mastered
