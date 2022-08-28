@@ -1,39 +1,48 @@
-<p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif">
+<h3 align="center"> TonyCrane / 鹤翔万里</h3>
+
+<p align="center">
+  <samp>
+    <a href="https://tonycrane.cc/">me</a> ∙
+    <a href="https://blog.tonycrane.cc/">blog</a> ∙
+    <a href="https://note.tonycrane.cc/">note</a> ∙
+    <a href="https://space.bilibili.com/171431343">bilibili</a> ∙ 
+    <a href="https://github.com/manim-kindergarten">org</a> ∙
+    <a href="https://t.me/Tony_Crane">telegram</a>
+  </samp>
 </p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=Michael-OVO&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-OVO&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/m0rp43us">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-OVO&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+<!-- ![Metrics](https://github.com/TonyCrane/TonyCrane/blob/master/github-metrics.svg) -->
 
-### Languages
+<p align="center">
+  <a href="https://github.com/TonyCrane">
+    <img width="400" align="top" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.left.svg" />
+  </a>
+  &emsp;
+  <a href="https://github.com/TonyCrane">
+    <img width="400" align="top" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.right.svg" />
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+<!-- 
+My Projects:
+- documentation for [manim](https://github.com/3b1b/manim)
+- [manim_projects](https://github.com/TonyCrane/manim_projects): my videos made by manim
+- [OI](https://github.com/TonyCrane/OI): my codes of studying Olympiad in Informatics
+- [manim_sandbox](https://github.com/manim-kindergarten/manim_sandbox): some utils of manim
+- [manim_document_zh](https://github.com/manim-kindergarten/manim_document_zh): a chinese document of manim
+- [manim_action_renderer](https://github.com/manim-kindergarten/manim_action_renderer): a GitHub action to render manim videos -->
 
+<!--
+**TonyCrane/TonyCrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Technologies
+Here are some ideas to get you started:
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)
-![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
-![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
-![Influxdb](https://img.shields.io/badge/-Influxdb-000?&logo=Influxdb)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
-
-
-
-<b>🔥 Github Streaks</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-OVO&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="m0rp43us" /></p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
