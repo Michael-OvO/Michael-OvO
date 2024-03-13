@@ -57,7 +57,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="46.5 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -83,7 +83,7 @@
                                     <span class="prefix">Super</span>
                                     forker
                                 </div>
-                                <div class="text">Forked 12 public repositories</div>
+                                <div class="text">Forked 13 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -96,7 +96,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.333333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.5 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -121,9 +121,9 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.49m out of 132m users</span>
+                                    <span class="gh">ranked 2.34m out of 132m users</span>
                                 </div>
-                                <div class="text">Published 22 public repositories</div>
+                                <div class="text">Published 23 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -230,7 +230,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 206k out of 70.5m repositories</span>
+                                    <span class="gh">ranked 206k out of 76.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 61 times</div>
                             </div>
@@ -339,7 +339,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 150k out of 70.5m repositories</span>
+                                    <span class="gh">ranked 150k out of 76.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 277 stars</div>
                             </div>
