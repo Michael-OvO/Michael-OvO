@@ -17,7 +17,7 @@ jobs:
     steps:
       # ---------- LEFT PANEL ----------
       - name: left
-        uses: lowlighter/metrics@v3.34
+        uses: stalomeow/metrics@projects-v2
         with:
           # Auth token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -57,7 +57,7 @@ jobs:
 
       # ---------- RIGHT PANEL ----------
       - name: right
-        uses: lowlighter/metrics@v3.34
+        uses: stalomeow/metrics@projects-v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.right.svg
