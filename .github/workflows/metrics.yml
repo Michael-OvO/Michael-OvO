@@ -67,5 +67,6 @@ jobs:
           plugin_achievements_threshold: D
           plugin_achievements_display: detailed
           plugin_achievements_limit: 0
+          plugin_achievements_ignored: projects
           #plugin_achievements_ignored: member, worker, explorer, automator, infographile
 
