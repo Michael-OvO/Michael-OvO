@@ -28,6 +28,7 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
+          repositories_affiliations: owner
 
           # Follow-up section
           plugin_followup: yes
@@ -39,7 +40,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_details: lines, percentage
           plugin_languages_indepth: yes
-          plugin_languages_aliases: Jupyter Notebook:ipynb
+          plugin_languages_ignored: jupyter notebook
 
           # Commit attribution
           commits_authoring: Michael-OvO
