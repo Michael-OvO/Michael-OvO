@@ -311,33 +311,33 @@
                                 </g>
                             </g>
                             <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                <g class="tick" opacity="1" transform="translate(0,10.5)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">748</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,48.96153846153846)">
+                                <g class="tick" opacity="1" transform="translate(0,29.73076923076922)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">746</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,87.42307692307692)">
+                                <g class="tick" opacity="1" transform="translate(0,68.19230769230768)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">744</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,125.88461538461539)">
+                                <g class="tick" opacity="1" transform="translate(0,106.65384615384615)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">742</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,164.34615384615384)">
+                                <g class="tick" opacity="1" transform="translate(0,145.1153846153846)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">740</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,202.8076923076923)">
+                                <g class="tick" opacity="1" transform="translate(0,183.57692307692307)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">738</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,241.26923076923077)">
+                                <g class="tick" opacity="1" transform="translate(0,222.03846153846155)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">736</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(0,260.5)">
+                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
+                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">734</text>
                                 </g>
                             </g>
                             <path transform="translate(10,10)" d="M10,260L44.615,106.154L79.231,67.692L113.846,29.231L148.462,10L183.077,10L217.692,10L252.308,10L286.923,10L321.538,10L356.154,10L390.769,10L425.385,10L460,10" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
@@ -358,19 +358,19 @@
                                 <circle transform="translate(10,10)" cx="425.3846153846154" cy="10" r="2" fill="#106cbc"/>
                             </g>
                             <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                <text transform="translate(10,6)" x="10" y="260" fill="rgba(127, 127, 127, .8)">735</text>
-                                <text transform="translate(10,6)" x="44.61538461538462" y="106.15384615384615" fill="rgba(127, 127, 127, .8)">743</text>
-                                <text transform="translate(10,6)" x="79.23076923076924" y="67.69230769230768" fill="rgba(127, 127, 127, .8)">745</text>
-                                <text transform="translate(10,6)" x="113.84615384615385" y="29.23076923076922" fill="rgba(127, 127, 127, .8)">747</text>
-                                <text transform="translate(10,6)" x="148.46153846153848" y="10" fill="rgba(127, 127, 127, .8)">748</text>
-                                <text transform="translate(10,6)" x="183.0769230769231" y="10" fill="rgba(127, 127, 127, .8)">748</text>
-                                <text transform="translate(10,6)" x="217.6923076923077" y="10" fill="rgba(127, 127, 127, .8)">748</text>
-                                <text transform="translate(10,6)" x="252.3076923076923" y="10" fill="rgba(127, 127, 127, .8)">748</text>
-                                <text transform="translate(10,6)" x="286.92307692307696" y="10" fill="rgba(127, 127, 127, .8)">748</text>
-                                <text transform="translate(10,6)" x="321.53846153846155" y="10" fill="rgba(127, 127, 127, .8)">748</text>
-                                <text transform="translate(10,6)" x="356.1538461538462" y="10" fill="rgba(127, 127, 127, .8)">748</text>
-                                <text transform="translate(10,6)" x="390.7692307692308" y="10" fill="rgba(127, 127, 127, .8)">748</text>
-                                <text transform="translate(10,6)" x="425.3846153846154" y="10" fill="rgba(127, 127, 127, .8)">748</text>
+                                <text transform="translate(10,6)" x="10" y="260" fill="rgba(127, 127, 127, .8)">734</text>
+                                <text transform="translate(10,6)" x="44.61538461538462" y="106.15384615384615" fill="rgba(127, 127, 127, .8)">742</text>
+                                <text transform="translate(10,6)" x="79.23076923076924" y="67.69230769230768" fill="rgba(127, 127, 127, .8)">744</text>
+                                <text transform="translate(10,6)" x="113.84615384615385" y="29.23076923076922" fill="rgba(127, 127, 127, .8)">746</text>
+                                <text transform="translate(10,6)" x="148.46153846153848" y="10" fill="rgba(127, 127, 127, .8)">747</text>
+                                <text transform="translate(10,6)" x="183.0769230769231" y="10" fill="rgba(127, 127, 127, .8)">747</text>
+                                <text transform="translate(10,6)" x="217.6923076923077" y="10" fill="rgba(127, 127, 127, .8)">747</text>
+                                <text transform="translate(10,6)" x="252.3076923076923" y="10" fill="rgba(127, 127, 127, .8)">747</text>
+                                <text transform="translate(10,6)" x="286.92307692307696" y="10" fill="rgba(127, 127, 127, .8)">747</text>
+                                <text transform="translate(10,6)" x="321.53846153846155" y="10" fill="rgba(127, 127, 127, .8)">747</text>
+                                <text transform="translate(10,6)" x="356.1538461538462" y="10" fill="rgba(127, 127, 127, .8)">747</text>
+                                <text transform="translate(10,6)" x="390.7692307692308" y="10" fill="rgba(127, 127, 127, .8)">747</text>
+                                <text transform="translate(10,6)" x="425.3846153846154" y="10" fill="rgba(127, 127, 127, .8)">747</text>
                             </g>
                         </svg>
                     </section>
